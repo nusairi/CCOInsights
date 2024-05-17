@@ -7,6 +7,7 @@
   - [Azure Resources Security \& Compliance page](#azure-resources-security--compliance-page)
   - [Azure Policies page](#azure-policies-page)
   - [Azure Blueprints page](#azure-blueprints-page)
+  - [Data flow Architecture diagram of Governance Dashboard)
 
 ---
 
